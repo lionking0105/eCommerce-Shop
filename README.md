@@ -1,7 +1,6 @@
 
 <h2>Singitronic – Key features</h2>
-<p>Singitronic is Next.js and Node.js full-stack e-commerce website . Our application comes with the fully functional <b>admin panel</b> and it is fully open-source. Our <b>free online store website</b> is completely responsive and manually tested. Our ecommerce shop template and Next.js ecommerce theme is fully customized for all your needs. It is available for <b>free download</b> and can be used as an ecommerce example for all your future projects. </p>
-<h3>Is Next.js good for eCommerce?</h3>
+<p>Singitronic is Next.js and Node.js full-stack e-commerce website . Our application comes with the fully functional <b>admin panel</b> and it is fully open-source. Our <b>free online store website</b> is completely responsive and manually tested. Our ecommerce shop template and Next.js ecommerce theme is fully customized for all your needs.
 <p>Next.js is currently one of the best ways for developing custom eCommerce solutions. It’s benefits include improved performance, SEO-friendliness, easy development and deployment, excellent developer experience, and the ability to handle versatile and scalable projects. By leveraging Next.js, developers can create compelling web applications that deliver an exceptional user experience while maintaining optimal performance.</p>
 
 
